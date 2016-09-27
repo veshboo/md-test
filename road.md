@@ -1,5 +1,6 @@
 # 가지 않은 길 - Robert Frost
 
+```
     Two roads diverged in a yellow wood,
     And sorry I could not travel both
     And be one traveler, long I stood
@@ -11,7 +12,9 @@
     Because it was grassy and wanted wear;
     Though as for that the passing there
     Had worn them really about the same,
+```
 
+<pre>
     And both that morning equally lay
     In leaves no step had trodden black.
     Oh, I kept the first for another day!
@@ -23,6 +26,7 @@
     Two roads diverged in a wood, and I—
     I took the one less traveled by,
     And that has made all the difference.
+</pre>
 
 # The Road Not Taken (short story) - Harry Turtledove
 * [위키피디아 페이지](https://en.wikipedia.org/wiki/The_Road_Not_Taken_(short_story))
