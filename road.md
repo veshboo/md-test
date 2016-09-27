@@ -1,5 +1,4 @@
-가지 않은 길 - Robert Frost
-========================
+# 가지 않은 길 - Robert Frost
 
     Two roads diverged in a yellow wood,
     And sorry I could not travel both
@@ -25,8 +24,7 @@
     I took the one less traveled by,
     And that has made all the difference.
 
-The Road Not Taken (short story) - Harry Turtledove
-=====================================================
+# The Road Not Taken (short story) - Harry Turtledove
 https://en.wikipedia.org/wiki/The_Road_Not_Taken_(short_story)
 
 문명의 이른 시점에 손쉽게 중력 조작 기술을 터득한 록솔란인들은 은하간 항해를 하며 그저 하던 대로 지구를 침공합니다.
@@ -39,4 +37,6 @@ https://en.wikipedia.org/wiki/The_Road_Not_Taken_(short_story)
 
     The Roxolani looked at each other, appalled. They spoke together: "What have we done?
 
-한줄요약: 그냥그냥
+# 한줄요약
+
+그냥그냥
